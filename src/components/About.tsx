@@ -1,4 +1,3 @@
-import React from 'react';
 import { Scale, Users2, BookOpen, Award } from 'lucide-react';
 
 const About = () => {
@@ -31,7 +30,7 @@ const About = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Nuestra Fundación
+            Nuestra Organización
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 via-indigo-500 to-purple-500 mx-auto mb-6"></div>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
